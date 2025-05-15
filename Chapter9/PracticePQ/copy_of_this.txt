@@ -1,0 +1,2 @@
+This is a sample text file used for file operations in Python.
+We will copy this file and rename it using a Python script.

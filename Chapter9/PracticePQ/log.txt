@@ -1,0 +1,8 @@
+[INFO] Server started at 08:00 AM
+[DEBUG] Initializing the database
+[INFO] User logged in
+[WARNING] python script took too long to execute
+[ERROR] Failed to connect to database
+[INFO] Another user tried to run Python program
+[DEBUG] Memory usage is normal
+[INFO] python executed successfully
